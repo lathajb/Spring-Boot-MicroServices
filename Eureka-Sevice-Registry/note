@@ -1,0 +1,4 @@
+1. Since Jaxb is removed from jdk from 9 version onwards, we need to add manually in pom.
+
+2. For eureka server -- spring-cloud-starter-config , 
+                        spring-cloud-netflix-eureka-server these two dependencies we need to add in pom.

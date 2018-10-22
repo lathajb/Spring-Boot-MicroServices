@@ -1,0 +1,12 @@
+package com.example.item.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ItemControllerService {
+	
+	public String getItem() {
+		return "item";
+	}
+
+}

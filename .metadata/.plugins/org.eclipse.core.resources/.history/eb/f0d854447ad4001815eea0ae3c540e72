@@ -1,0 +1,12 @@
+package com.eureka.service.registry;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EurekaSeviceRegistryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EurekaSeviceRegistryApplication.class, args);
+	}
+}
